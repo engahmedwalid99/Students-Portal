@@ -1,5 +1,5 @@
 <?php
-// config.php - PDO connection to school_db
+
 $host    = 'localhost';
 $dbname  = 'school_db';
 $db_user = 'root';
